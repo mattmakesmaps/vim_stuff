@@ -14,3 +14,7 @@ all of these plugins are made by smart folks (not me).
     $ ln -s /path/to/vim_stuff/plugin
     $ cd /etc/vim
     $ ln -s /path/to/vim_stuff/vimrc
+
+# Syntax Highlighting
+
+Check out solarzied [solarized](http://ethanschoonover.com/solarized)
