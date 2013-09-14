@@ -17,4 +17,4 @@ all of these plugins are made by smart folks (not me).
 
 # Syntax Highlighting
 
-Check out solarzied [solarized](http://ethanschoonover.com/solarized)
+Check out Solarzied [Solarized](http://ethanschoonover.com/solarized)
